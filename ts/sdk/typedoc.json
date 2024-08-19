@@ -1,0 +1,7 @@
+{
+  "out": "./docs",
+  "name": "cwcounter",
+  "theme": "markdown",
+  "readme": "none",
+  "tsconfig": "./tsconfig.bundle.json"
+}
